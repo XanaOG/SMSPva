@@ -1,0 +1,240 @@
+{
+    "APIKey": "",
+    "List": {
+        "Countries": [
+            "RU",
+            "CA",
+            "UA",
+            "DE",
+            "IT",
+            "KZ",
+            "DO",
+            "RO",
+            "AL",
+            "AR",
+            "AT",
+            "BD",
+            "BE",
+            "BA",
+            "BR",
+            "BG",
+            "KH",
+            "CL",
+            "CO",
+            "HR",
+            "CY",
+            "CZ",
+            "DK",
+            "EG",
+            "EE",
+            "FI",
+            "FR",
+            "GH",
+            "GR",
+            "HK",
+            "IN",
+            "ID",
+            "IQ",
+            "IE",
+            "IL",
+            "KE",
+            "KG",
+            "LA",
+            "LV",
+            "LT",
+            "MK",
+            "MY",
+            "MX",
+            "MD",
+            "MA",
+            "NL",
+            "NZ",
+            "NG",
+            "PK",
+            "PY",
+            "PH",
+            "PL",
+            "PT",
+            "RS",
+            "SI",
+            "ZA",
+            "ES",
+            "SE",
+            "TH",
+            "TR",
+            "US",
+            "UK",
+            "VN"
+        ],
+        "Options": [
+            {
+                "name": "OpenAI",
+                "number": 132
+            },
+            {
+                "name": "888Casino",
+                "number": 22
+            },
+            {
+                "name": "Adidas & Nike",
+                "number": 86
+            },
+            {
+                "name": "Airbnb",
+                "number": 46
+            },
+            {
+                "name": "Alibaba",
+                "number": 46
+            },
+            {
+                "name": "Amazon",
+                "number": 44
+            },
+            {
+                "name": "AOL",
+                "number": 10
+            },
+            {
+                "name": "Apple",
+                "number": 131
+            },
+            {
+                "name": "Avito",
+                "number": 59
+            },
+            {
+                "name": "Badoo",
+                "number": 56
+            },
+            {
+                "name": "Bet365.it",
+                "number": 17
+            },
+            {
+                "name": "BetFair",
+                "number": 25
+            },
+            {
+                "name": "Blizzard",
+                "number": 78
+            },
+            {
+                "name": "Blsspain",
+                "number": 135
+            },
+            {
+                "name": "Bolt",
+                "number": 81
+            },
+            {
+                "name": "BWIN",
+                "number": 137
+            },
+            {
+                "name": "Careem",
+                "number": 89
+            },
+            {
+                "name": "CityMobil",
+                "number": 76
+            },
+            {
+                "name": "Clubhouse",
+                "number": 98
+            },
+            {
+                "name": "CoinBase",
+                "number": 112
+            },
+            {
+                "name": "Contact",
+                "number": 51
+            },
+            {
+                "name": "Craigslist",
+                "number": 26
+            },
+            {
+                "name": "Credit Karma",
+                "number": 124
+            },
+            {
+                "name": "Deliveroo",
+                "number": 53
+            },
+            {
+                "name": "DiDi",
+                "number": 92
+            },
+            {
+                "name": "Discord",
+                "number": 45
+            },
+            {
+                "name": "DoDoPizza + PapaJohns",
+                "number": 27
+            },
+            {
+                "name": "DoorDash",
+                "number": 40
+            },
+            {
+                "name": "Drom.RU",
+                "number": 32
+            },
+            {
+                "name": "Drug Vokrug",
+                "number": 31
+            },
+            {
+                "name": "Dundle",
+                "number": 136
+            },
+            {
+                "name": "FastMail",
+                "number": 43
+            },
+            {
+                "name": "Fiverr",
+                "number": 6
+            },
+            {
+                "name": "G2A",
+                "number": 68
+            },
+            {
+                "name": "Google (YouTube, Gmail)",
+                "number": 1
+            },
+            {
+                "name": "Google Voice",
+                "number": 140
+            },
+            {
+                "name": "Instagram",
+                "number": 16
+            },
+            {
+                "name": "Lyft",
+                "number": 75
+            },
+            {
+                "name": "Proton",
+                "number": 57
+            },
+            {
+                "name": "Snapchat",
+                "number": 90
+            },
+            {
+                "name": "Steam",
+                "number": 58
+            },
+            {
+                "name": "Telegram",
+                "number": 29
+            }
+        ]
+    }
+}
